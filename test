@@ -1,0 +1,1446 @@
+<html><title>EnsEMBL::REST</title><body><pre>--- 
+Transcript: 
+  - 
+    Exon: 
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104928155
+        id: ENSE00001810407
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104927935
+        strand: -1
+        version: 2
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104903771
+        id: ENSE00002201214
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104903614
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104889195
+        id: ENSE00003593541
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104889102
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104884568
+        id: ENSE00003559924
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104884427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104883157
+        id: ENSE00001089514
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104883039
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104861800
+        id: ENSE00002178768
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104861679
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104858698
+        id: ENSE00001651460
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104858522
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104845569
+        id: ENSE00001089515
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104845477
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104840519
+        id: ENSE00001137893
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104840279
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104837567
+        id: ENSE00001089478
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104837428
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104837096
+        id: ENSE00001089523
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104836980
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104832771
+        id: ENSE00001089458
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104832574
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104831827
+        id: ENSE00001089485
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104831622
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104831101
+        id: ENSE00001089482
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104830925
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104829138
+        id: ENSE00003502099
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104828916
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104827169
+        id: ENSE00003480600
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104826948
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104825887
+        id: ENSE00001089496
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104825683
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104824578
+        id: ENSE00001089474
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104824465
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104822667
+        id: ENSE00001089502
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104822496
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104821506
+        id: ENSE00001089493
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104821375
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104820069
+        id: ENSE00001137821
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104819927
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104819723
+        id: ENSE00001089518
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104819586
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104818883
+        id: ENSE00001089520
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104818663
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104817404
+        id: ENSE00001089492
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104817332
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104816345
+        id: ENSE00001089463
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104816143
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104814475
+        id: ENSE00001089457
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104814427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104814231
+        id: ENSE00001089484
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104814118
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104812722
+        id: ENSE00001089468
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104812574
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104810924
+        id: ENSE00001089471
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104810800
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104809564
+        id: ENSE00001089469
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104809466
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104806430
+        id: ENSE00001089497
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104806241
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104804720
+        id: ENSE00001089467
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104804626
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104803316
+        id: ENSE00001089487
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104803284
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104802159
+        id: ENSE00001089500
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104802054
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104800584
+        id: ENSE00001137741
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104800510
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104799988
+        id: ENSE00001089512
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104799819
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104798598
+        id: ENSE00001089491
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104798421
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104796424
+        id: ENSE00001089494
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104796309
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104796197
+        id: ENSE00001089461
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104796053
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104794510
+        id: ENSE00001089480
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104794387
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104793300
+        id: ENSE00001089505
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104793171
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104792906
+        id: ENSE00001089473
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104792786
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104791998
+        id: ENSE00001089488
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104791936
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104791028
+        id: ENSE00001089472
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104790922
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104788567
+        id: ENSE00001089486
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104788426
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104788054
+        id: ENSE00001089517
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104787920
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104786976
+        id: ENSE00001089479
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104786873
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104786390
+        id: ENSE00001089525
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104786298
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104785639
+        id: ENSE00001089456
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104785396
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104784455
+        id: ENSE00001143998
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104781006
+        strand: -1
+        version: 4
+    Parent: ENSG00000165029
+    Translation: 
+      Parent: ENST00000374736
+      db_type: core
+      end: 104903679
+      id: ENSP00000363868
+      length: 2261
+      object_type: Translation
+      species: homo_sapiens
+      start: 104784315
+      version: 3
+    assembly_name: GRCh38
+    biotype: protein_coding
+    db_type: core
+    display_name: ABCA1-202
+    end: 104928155
+    gencode_primary: 1
+    id: ENST00000374736
+    is_canonical: 1
+    length: 10408
+    logic_name: ensembl_havana_transcript_homo_sapiens
+    object_type: Transcript
+    seq_region_name: 9
+    source: ensembl_havana
+    species: homo_sapiens
+    start: 104781006
+    strand: -1
+    version: 8
+  - 
+    Exon: 
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104928155
+        id: ENSE00001810407
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104927935
+        strand: -1
+        version: 2
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104903771
+        id: ENSE00002201214
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104903614
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104889195
+        id: ENSE00003593541
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104889102
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104884568
+        id: ENSE00003559924
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104884427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104883157
+        id: ENSE00001089514
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104883039
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104861800
+        id: ENSE00002178768
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104861679
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104858698
+        id: ENSE00001651460
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104858522
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104845569
+        id: ENSE00001089515
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104845477
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104840519
+        id: ENSE00001137893
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104840279
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104837567
+        id: ENSE00001089478
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104837428
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104837096
+        id: ENSE00001089523
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104836980
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104832771
+        id: ENSE00001089458
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104832574
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104831827
+        id: ENSE00001089485
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104831622
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104831101
+        id: ENSE00001089482
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104830925
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104829138
+        id: ENSE00003502099
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104828916
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104827169
+        id: ENSE00003480600
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104826948
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104825887
+        id: ENSE00001089496
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104825683
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104824578
+        id: ENSE00001089474
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104824465
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104822667
+        id: ENSE00001089502
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104822496
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104821506
+        id: ENSE00001089493
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104821375
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104820069
+        id: ENSE00001137821
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104819927
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104819723
+        id: ENSE00001089518
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104819586
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104818883
+        id: ENSE00001089520
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104818663
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104817304
+        id: ENSE00003908508
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104817226
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104816345
+        id: ENSE00001089463
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104816143
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104814475
+        id: ENSE00001089457
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104814427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104814231
+        id: ENSE00001089484
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104814118
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104812722
+        id: ENSE00001089468
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104812574
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104810924
+        id: ENSE00001089471
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104810800
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104809564
+        id: ENSE00001089469
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104809466
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104806430
+        id: ENSE00001089497
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104806241
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104804720
+        id: ENSE00001089467
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104804626
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104803316
+        id: ENSE00001089487
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104803284
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104802159
+        id: ENSE00001089500
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104802054
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104800584
+        id: ENSE00001137741
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104800510
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104799988
+        id: ENSE00001089512
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104799819
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104798598
+        id: ENSE00001089491
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104798421
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104796424
+        id: ENSE00001089494
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104796309
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104796197
+        id: ENSE00001089461
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104796053
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104794510
+        id: ENSE00001089480
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104794387
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104793300
+        id: ENSE00001089505
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104793171
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104792906
+        id: ENSE00001089473
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104792786
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104791998
+        id: ENSE00001089488
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104791936
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104791028
+        id: ENSE00001089472
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104790922
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104788567
+        id: ENSE00001089486
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104788426
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104788054
+        id: ENSE00001089517
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104787920
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104786976
+        id: ENSE00001089479
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104786873
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104786390
+        id: ENSE00001089525
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104786298
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104785639
+        id: ENSE00001089456
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104785396
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104784455
+        id: ENSE00003904982
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104781007
+        strand: -1
+        version: 1
+    Parent: ENSG00000165029
+    Translation: 
+      Parent: ENST00000678995
+      db_type: core
+      end: 104903679
+      id: ENSP00000504612
+      length: 2263
+      object_type: Translation
+      species: homo_sapiens
+      start: 104784315
+      version: 1
+    assembly_name: GRCh38
+    biotype: protein_coding
+    db_type: core
+    display_name: ABCA1-205
+    end: 104928155
+    gencode_primary: 1
+    id: ENST00000678995
+    is_canonical: 0
+    length: 10413
+    logic_name: havana_homo_sapiens
+    object_type: Transcript
+    seq_region_name: 9
+    source: havana
+    species: homo_sapiens
+    start: 104781007
+    strand: -1
+    version: 1
+  - 
+    Exon: 
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104830989
+        id: ENSE00001860987
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104830925
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104829138
+        id: ENSE00003616714
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104828916
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104827169
+        id: ENSE00003691332
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104826948
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104825887
+        id: ENSE00001947572
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104825591
+        strand: -1
+        version: 1
+    Parent: ENSG00000165029
+    assembly_name: GRCh38
+    biotype: protein_coding_CDS_not_defined
+    db_type: core
+    display_name: ABCA1-204
+    end: 104830989
+    gencode_primary: 0
+    id: ENST00000494467
+    is_canonical: 0
+    length: 807
+    logic_name: havana_homo_sapiens
+    object_type: Transcript
+    seq_region_name: 9
+    source: havana
+    species: homo_sapiens
+    start: 104825591
+    strand: -1
+    version: 1
+  - 
+    Exon: 
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104928139
+        id: ENSE00001464476
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104927935
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104903771
+        id: ENSE00002201214
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104903614
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104889195
+        id: ENSE00003593541
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104889102
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104884568
+        id: ENSE00003559924
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104884427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104883157
+        id: ENSE00001089514
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104883039
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104861800
+        id: ENSE00002178768
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104861679
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104858698
+        id: ENSE00001651460
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104858522
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104856088
+        id: ENSE00001713505
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104855566
+        strand: -1
+        version: 2
+    Parent: ENSG00000165029
+    Translation: 
+      Parent: ENST00000423487
+      db_type: core
+      end: 104903679
+      id: ENSP00000416623
+      length: 363
+      object_type: Translation
+      species: homo_sapiens
+      start: 104855717
+      version: 2
+    assembly_name: GRCh38
+    biotype: protein_coding
+    db_type: core
+    display_name: ABCA1-203
+    end: 104928139
+    gencode_primary: 0
+    id: ENST00000423487
+    is_canonical: 0
+    length: 1540
+    logic_name: havana_homo_sapiens
+    object_type: Transcript
+    seq_region_name: 9
+    source: havana
+    species: homo_sapiens
+    start: 104855566
+    strand: -1
+    version: 6
+  - 
+    Exon: 
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104928139
+        id: ENSE00001464476
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104927935
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104889195
+        id: ENSE00003593116
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104889102
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104884568
+        id: ENSE00003635850
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104884427
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104883157
+        id: ENSE00001089514
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104883039
+        strand: -1
+        version: 1
+      - 
+        assembly_name: GRCh38
+        db_type: core
+        end: 104861800
+        id: ENSE00001464472
+        object_type: Exon
+        seq_region_name: 9
+        species: homo_sapiens
+        start: 104861438
+        strand: -1
+        version: 1
+    Parent: ENSG00000165029
+    Translation: 
+      Parent: ENST00000374733
+      db_type: core
+      end: 104884548
+      id: ENSP00000363865
+      length: 123
+      object_type: Translation
+      species: homo_sapiens
+      start: 104861670
+      version: 1
+    assembly_name: GRCh38
+    biotype: protein_coding
+    db_type: core
+    display_name: ABCA1-201
+    end: 104928139
+    gencode_primary: 1
+    id: ENST00000374733
+    is_canonical: 0
+    length: 923
+    logic_name: havana_homo_sapiens
+    object_type: Transcript
+    seq_region_name: 9
+    source: havana
+    species: homo_sapiens
+    start: 104861438
+    strand: -1
+    version: 1
+assembly_name: GRCh38
+biotype: protein_coding
+canonical_transcript: ENST00000374736.8
+db_type: core
+description: ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]
+display_name: ABCA1
+end: 104928155
+id: ENSG00000165029
+logic_name: ensembl_havana_gene_homo_sapiens
+object_type: Gene
+seq_region_name: 9
+source: ensembl_havana
+species: homo_sapiens
+start: 104781006
+strand: -1
+version: 17
+</pre></body></html>
