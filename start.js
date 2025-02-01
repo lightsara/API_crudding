@@ -18,8 +18,7 @@
 
 
 console.log("Starting out")
-const API_URL = 'https://rest.ensembl.org/;
-
+const API_URL = 'https://rest.ensembl.org/';
 
 
 //Get the data from the API.
