@@ -13,11 +13,11 @@
 
 ##Instructions:
 
-##Select a number of human genes of interest.
+## Select a number of human genes of interest.
 
-##For each gene, extract certain information.
+## For each gene, extract certain information.
 
-##Write the information on the html page.
+## Write the information on the html page.
 
 
 
