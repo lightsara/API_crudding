@@ -23,8 +23,6 @@ const ext = "/lookup/id/ENSG00000157764?content-type=application/json;expand=1";
 const ext1 = "/lookup/id/";
 const ext2 = "?content-type=application/json;expand=1"
 
-//console.log(kombo);
-
 
 
 //Example protein "id": "ENSP00000419060"
@@ -35,37 +33,50 @@ const proteinStableId_array = ["ENSP00000518625", "ENSP00000518623", "ENSP000005
 console.log(proteinStableId_array);
 
 
-async function fetchData() {
+async function fetchData(protein) {
     
     //create the specific URL for each proteinStableId
     proteinStableId_array.forEach((protein) => {
-    const kombo = BASE_URL + ext1 + protein + ext2;
-   
-   
-   
-    try {
-            console.log(kombo);
-            const response = await fetch(kombo);
-            if (!response.ok) {
-                throw new Error(`Error status: ${response.status}`);
+    
+    
+            const kombo = BASE_URL + ext1 + protein + ext2;
+            console.log(kombo); 
 
-            }
+         //   try {
+         //         const response = await fetch(kombo).json;
+         //       if (!response.ok) {
+         //             throw new Error(`Error status: ${response.status}`);
+          //          }
+          //      } catch (error) {
+                    // console.log(response);
+          //          console.error(error);
+          //XS      }
 
-          const data = await response.json();
-          console.log(data);
+        })
+}
 
-        } catch (error) {
-        // console.log(response);
-        console.error(error);
+  
+//    try {
+ //           console.log(kombo);
+ //           const response = await fetch(kombo);
+ //           if (!response.ok) {
+ //               throw new Error(`Error status: ${response.status}`);
+//
+//            }
 
-        }
+//          const data = await response.json();
+//          console.log(data);
 
-    })
+//        } catch (error) {
+//        // console.log(response);
+//        console.error(error);
+//
+//        }
+
+ //   })
 
     
-
-
-fetchData(protein);
+fetchData(proteinStableId_array);
 
 
 //Make changes to each gene object.
