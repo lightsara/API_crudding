@@ -22,5 +22,6 @@ This is a API-mediated CRUD exercise - create, read, update and delete.
 
 
 
-
-             
+## Credits
+I have used the instructions here for simple explanations of the REST API protocol.
+https://github.com/patricksavalle/rest-api-cheatsheet

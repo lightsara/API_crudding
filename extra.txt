@@ -1,0 +1,94 @@
+//The main script for the individual JavaScript project.
+
+//Using an external API for the project.
+//Utilizing local storage to create, read, update, and delete data.
+
+
+//1. Settings for the API
+
+//use strict;
+//use warnings;
+//use HTTP::Tiny;
+//use Time::HiRes qw/sleep/;
+//use JSON qw/decode_json/;
+
+
+//Modeling this script from Maja's excellent code along videos as a first step.
+//Second step is to make it my own by adding my own code and ideas.
+
+
+console.log("Starting out");
+const BASE_URL = "https://rest.ensembl.org/";
+const ext = "/lookup/id/ENSG00000157764?content-type=application/json;expand=1";
+const kombo = BASE_URL + ext;
+console.log(kombo);
+
+
+//Example protein "id": "ENSP00000419060",
+//Current assembly:GRCh38.p14	
+//Species: human
+
+//A nice overview here:
+//https://www.ensembl.org/info/docs/api/core/core_API_diagram.html
+
+
+//const endPoint = GET lookup/id/:id
+
+
+//Get the data from the API.
+
+//testing in terminal: 
+
+//Test1
+//curl 'https://rest.ensembl.org/lookup/symbol/homo_sapiens/BRCA2?expand=1' -H 'Content-type:application/json'
+//GET lookup/symbol/:species/:symbol
+
+//Test2
+//
+//GET lookup/id/:id
+//https://rest.ensembl.org/lookup/id/ENSG00000165029?expand=1;content-type=application/json
+
+//Test3
+//curl 'https://rest.ensembl.org/lookup/id/ENSG00000165029?expand=1'
+
+
+//Change data slightly.
+
+//Save to LS
+
+//Render the data from LS to UI.
+
+
+//Emulating Maja's work but implementing it on Ensembl's genes.
+async function fetchGenes() {
+    try {
+        const response = await fetch(kombo);
+        if (!response.ok) {
+            throw new Error(`Error status: ${response.status}`);
+
+        }
+        const data = await response.json();
+        console.log(data);
+
+    } 
+    
+    catch (error) {
+        console.log(response);
+        console.error(error);
+    }
+};
+
+fetchGenes();
+
+
+//Make changes to each gene object.
+
+
+
+
+
+//I am interested in mapping protein to chromosomal location.
+//https://rest.ensembl.org/documentation/info/assembly_translation
+//This is something I want to try later, so leaving this here for now.
+
+

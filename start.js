@@ -17,31 +17,65 @@
 //Second step is to make it my own by adding my own code and ideas.
 
 
-console.log("Starting out")
-const API_URL = 'https://rest.ensembl.org/';
+console.log("Starting out");
+const BASE_URL = "https://rest.ensembl.org/";
+const ext = "/lookup/id/ENSG00000157764?content-type=application/json;expand=1";
+const ext1 = "/lookup/id/";
+const ext2 = "?content-type=application/json;expand=1"
+
+//console.log(kombo);
 
 
-//Get the data from the API.
 
-//testing in terminal: 
+//Example protein "id": "ENSP00000419060"
 
-//Test1
-//curl 'https://rest.ensembl.org/lookup/symbol/homo_sapiens/BRCA2?expand=1' -H 'Content-type:application/json'
-//GET lookup/symbol/:species/:symbol
-
-//Test2
-//
-//GET lookup/id/:id
-//https://rest.ensembl.org/lookup/id/ENSG00000165029?expand=1;content-type=application/json
-
-//Test3
-//curl 'https://rest.ensembl.org/lookup/id/ENSG00000165029?expand=1'
+//Protein stable ID starts with ENSP
+//Define the protein stable ID's as an array.
+const proteinStableId_array = ["ENSP00000518625", "ENSP00000518623", "ENSP00000518638", "ENSP00000518637", "ENSP00000518635", "ENSP00000518633", "ENSP00000518632", "ENSP00000518590", "ENSP00000518612", "ENSP00000518609"];
+console.log(proteinStableId_array);
 
 
-//Change data slightly.
+async function fetchData() {
+    
+    //create the specific URL for each proteinStableId
+    proteinStableId_array.forEach((protein) => {
+    const kombo = BASE_URL + ext1 + protein + ext2;
+   
+   
+   
+    try {
+            console.log(kombo);
+            const response = await fetch(kombo);
+            if (!response.ok) {
+                throw new Error(`Error status: ${response.status}`);
 
-//Save to LS
+            }
 
-//Render the data from LS to UI.
+          const data = await response.json();
+          console.log(data);
+
+        } catch (error) {
+        // console.log(response);
+        console.error(error);
+
+        }
+
+    })
+
+    
+
+
+fetchData(protein);
+
+
+//Make changes to each gene object.
+
+
+
+
+
+//I am interested in mapping protein to chromosomal location.
+//https://rest.ensembl.org/documentation/info/assembly_translation
+//This is something I want to try later, so leaving this here for now.
 
 
